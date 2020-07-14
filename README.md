@@ -1,2 +1,1 @@
-# Tigran
-TTTTT
+Its my first Repasitory
